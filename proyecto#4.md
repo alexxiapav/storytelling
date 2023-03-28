@@ -23,6 +23,7 @@ Ficha:
 -------------------------------
 CONTENIDO INTERACTIVO:
 [Quien es Lola Lolita?](https://h5p.org/node/1368441) 
+[Quiz Personalidad](https://h5p.org/node/1368950?feed_me=nps) 
 
 -------------------------------
 [Storytelling](https://stackedit.io/app#)
